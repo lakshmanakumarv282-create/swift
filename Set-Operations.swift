@@ -1,4 +1,3 @@
-// Day 1, Program 2: Unique values with Sets
 let codingClub: Set<String> = ["Arun", "Meena", "Laksh", "Meena"]
 let roboticsClub: Set<String> = ["Laksh", "Priya", "Arun"]
 
