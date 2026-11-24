@@ -1,4 +1,3 @@
-// Day 1, Program 3: Dictionary student marks
 var studentMarks: [String: Int] = [
     "Arun": 82,
     "Meena": 96,
