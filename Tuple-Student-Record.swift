@@ -1,4 +1,3 @@
-// Day 1, Program 4: Tuples and named elements
 let student = (name: "Laksh", age: 22, department: "CSE", passed: true)
 
 print("Name: \(student.name)")
